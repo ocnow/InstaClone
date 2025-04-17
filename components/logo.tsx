@@ -11,10 +11,10 @@ export default function Logo() {
 
 const styles = StyleSheet.create({
   logo: {
-    width: 200,
-    height: 60,
+    width: 100,
+    height: 30,
     resizeMode: 'contain',
-    alignSelf: 'center',
-    marginBottom: 40,
+    marginLeft: 15,
+    marginVertical: 10,
   },
 });
